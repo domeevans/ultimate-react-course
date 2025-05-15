@@ -1,0 +1,14 @@
+span {
+  /* display: block;
+   */
+  /* border: solid 2px crimson; */
+  margin: 20px;
+  padding: 20px;
+}
+
+div {
+  /* display: inline; */
+  border: solid 2px crimson;
+  margin: 20px;
+  padding: 20px;
+}
